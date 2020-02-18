@@ -1,0 +1,129 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	background-color: rgb(204, 204, 204);
+	height: auto;
+	width: 100%;
+	padding: 0;
+	margin: auto;
+}
+.heading1{
+	font-size: 40px;
+	color: orange;
+	text-align: center;
+	padding: 5px;
+	background-color: #2A563B;
+	margin-top: 30px;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: Cooper Black;
+	width: 80%;
+	border-radius: 50px 50px;
+}
+.heading1 b{
+	color: #00CDFF;
+}
+#icon{
+	color: red;
+	font-size: 20px;
+}
+
+.float-right-top{
+	float: right;
+}
+.profile{
+	height: 50px;
+	width: 50px;
+	margin-right: 2px;
+}
+.about{
+	font-size:30px;
+	color: #3F8200;
+	text-decoration: none;
+	font-family: Candara;
+}
+.heading_top{
+	margin-top: 10px;
+}
+.image_code{
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+}
+.intro{
+	font-size: 50px;
+	font-family: Ink Free;
+	color: #EA2004;
+	text-align: center;
+	margin-top: 10px;
+	padding: 5px;
+	margin-bottom: 5px;
+}
+.text_typed{
+	font-size: 20px;
+	margin: auto;
+	width: 50%;
+	text-align: center;
+	color: red;
+	font-family: Lucida Sans Unicode;
+}
+.profile {
+	padding: 1px;
+	margin: 5px 5px;
+	height: 45px;
+	width: 45px;
+}
+.paragraph{
+	text-align: center;
+	font-family: Kristen ITC;
+	font-size: 20px;
+}
+.line{
+	background-color: #EDF1F1;
+	height: 1px;
+	width: 90%;
+	margin-bottom: 5px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 5px;
+}
+.bold-font-color{
+	color: #04BF0A;
+}
+.say-hello{
+	text-decoration: none;
+}
+.run_text{
+	background-color: #2A563B;
+	color: #FFCD00;
+	font-size: 40px;
+	height: 50px;
+	width: 60%;
+	padding: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 20%;
+	margin-right: 20%;
+	font-family: Lucida Handwriting;
+	border-radius: 50px 50px;
+
+}
+.copyright{
+	margin-top: 5px;
+	color: #EA2004;
+	padding: 0;
+	float: left;
+	margin-left: 5px;
+}
+.developer{
+	margin-top: 5px;
+	color: #08FF00;
+	float: right;
+	padding: 0;
+	margin-right: 5px;
+}
